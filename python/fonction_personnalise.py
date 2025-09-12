@@ -1,3 +1,5 @@
+# Fonction personnalisée
+
 # Suppresion de la colonne Location
 df.drop(columns=["Location"], inplace=True)
 
