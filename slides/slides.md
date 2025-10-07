@@ -23,27 +23,42 @@ p { text-align: center; }
 
 ## Scénario
 
+
+![bg left | 80%](../images/Flag_of_Montreal.svg.png)
+
 ---
 
 ## Charger des données
+
+![bg left | 100%](../images/load_data..png)
 
  ---
 
 ## Supprimer des colonnes
 
+![bg left | 60%](../images/drop_columns.png)
+
 ---
 
 ## Changer le type d'une colonne
 
+![bg left | 40%](../images/data_typesl.png)
+
 ---
 
 ## Utiliser GitHub Copilot
+
+![bg left | 80%](../images/github_copilot.png)
+
 ---
 
 ## Générer le code Python
+
+![bg left | 100%](../images/python_jupyter.png)
 
 ---
 
 ## Exporter les données transformées
 
 
+![bg left | 100%](../images/csv_parquet.png)
